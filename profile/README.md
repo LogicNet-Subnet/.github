@@ -18,5 +18,5 @@ LogicNet-Subnet is a decentralized network utilizing the Bittensor protocol for 
 - 🌟 **Continuous Improvement**: Adding more math problem set and category.
 
 ### Neurons Documentation
-- 📖 [Validator](docs/VALIDATOR.md)
-- 📖 [Miner](docs/MINER.md)
+- 📖 [Validator](https://github.com/LogicNet-Subnet/LogicNet/blob/main/docs/VALIDATOR.md)
+- 📖 [Miner](https://github.com/LogicNet-Subnet/LogicNet/blob/main/docs/MINER.md)
